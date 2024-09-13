@@ -1,5 +1,11 @@
 ![](./silas-reinagel-github-banner.jpg)
 
+Maker of:
+- [Christmas Wishlist App](https://christmaswishlist.app/)
+- [Breezy](https://getbreezyapp.com/)
+- [EZ Balance Sheet](https://ezbalancesheet.app/)
+
+
 <!--
 **SilasReinagel/SilasReinagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
